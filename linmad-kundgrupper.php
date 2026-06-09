@@ -2,6 +2,7 @@
 /**
  * Plugin Name: Linmad Kundgrupper
  * Plugin URI:  https://linmadgross.se
+ * GitHub Plugin URI: patrykszczepaniks1-cloud/linmad-kundgrupper
  * Description: Hanterar kundgrupper (Bas, Silver, Guld, VIP) med fasta priser per produkt och kundgrupp för B2B-kunder i WooCommerce. Bas-kunder ser alltid standardpriset.
  * Version:     1.0.0
  * Author:      Patryk Szczepanik
